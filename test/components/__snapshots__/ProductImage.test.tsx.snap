@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage debe de mostrar el componente con la imagen del producto 1`] = `null`;
+
+exports[`ProductImage debe de mostrar el componente correctamente con la imagen 1`] = `null`;
+
+exports[`ProductImage debe de mostrar el componente correctamente con la imagen personalizada 1`] = `null`;
+
+exports[`ProductTitle debe de mostrar el componente con el nombre del producto 1`] = `null`;
+
+exports[`ProductTitle debe de mostrar el componente correctamente con la imagen 1`] = `null`;
